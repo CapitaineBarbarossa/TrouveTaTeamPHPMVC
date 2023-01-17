@@ -7,7 +7,7 @@ final class Config
     // Identifiants Database
     const
     DB_HOST = 'localhost',
-    DB_NAME = 'bdd',
+    DB_NAME = 'ttt',
     DB_USR = 'root',
     DB_PWD = '',
 
